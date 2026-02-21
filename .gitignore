@@ -1,0 +1,25 @@
+# Dependencies
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Env and local data
+.env
+.env.local
+*.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
